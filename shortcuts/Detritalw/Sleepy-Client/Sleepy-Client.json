@@ -1,4 +1,9 @@
 {
     "name":"Sleepy-Client",
-    "describe":"
+    "describe":"用快捷指令实现的 Sleepy 客户端支持 Apple Watch, iPhone, iPad, mac...",
+    "author":"Detritalw",
+    "date":"2025-03-28",
+    "repository":{
+        "github":"https://github.com/Detritalw/Sleepy-Client-Shortcuts"
+    }
 }
